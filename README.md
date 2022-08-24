@@ -20,7 +20,8 @@ j)'SMS_received': It indicates wether the patient received SMS or not.
 k)'No-show': It indicates wether the patient showed up for the appointment or not.
 
 # Analysis
-The analysis was carried out using Python frameworks (NumPy, Panda, Matplotlib, Seaborn). The link is attached to this commit
+The analysis was carried out using Python frameworks (NumPy, Panda, Matplotlib, Seaborn). The link is attached to this commit. The analysis breakdown can be found here [Investigate a data set project A1.zip](https://github.com/Sharzzdevise/Medical-appointment-data-set/files/9418285/Investigate.a.data.set.project.A1.zip)
+
 
 # Conclusion
 The dataset has 110527 medical appointments samples of 62298 patients. Judging from the statistics, there is a great possibility that each patient is likely to have multiple appointment records in the dataset. The data gotten further shows that the number of times a patient is given appointments correlates positively to the number of times he is present for the appointment, which draws a conclusion that patients showed up approximately 80% and failed to show up 20% of the times they were given appointments.
