@@ -1,7 +1,8 @@
 [Investigate a data set project A1.zip](https://github.com/Sharzzdevise/Medical-appointment-data-set/files/8952257/Investigate.a.data.set.project.A1.zip)
 # Medical-appointment-data-set
 This project is affiliated with Udacity Data Analyst Nanodegree 
-I Investigated and analyzed a Medical appointment Dataset following through the 6 data analytics process using Python, NumPy, Pandas, Matplotlib, Seaborn tools in a Jupyter notebook, after which I drew insightful and valuable conclusions from the dataset and excellently communicated project findings.
+
+In this project, I  Investigated and analyzed a Medical appointment Dataset following through the 6 data analytics process using Python, NumPy, Pandas, Matplotlib, Seaborn tools in a Jupyter notebook, after which I drew insightful and valuable conclusions from the dataset and excellently communicated project findings.
 
 # Introduction
 This dataset analyzed was gotten from Kaggle. It collected information from 100k medical appointments in Brazil and is focused on the question of whether or not patients were present or not on their appointment date. A number of characteristics about the patient were included in each row. 
