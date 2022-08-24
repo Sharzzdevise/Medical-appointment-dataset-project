@@ -6,7 +6,8 @@ In this project, I  Investigated and analyzed a Medical appointment Dataset foll
 
 # Introduction
 This dataset analyzed was gotten from Kaggle. It collected information from 100k medical appointments in Brazil and is focused on the question of whether or not patients were present or not on their appointment date. A number of characteristics about the patient were included in each row. 
-a)‘ScheduledDay’ tells us on what day the patient set up their appointments.
+a)‘ScheduledDay’ tells us on what day the patient set up their appointments. You can find the raw csv file here [noshowappointments-kagglev2-may-2016.csv](https://github.com/Sharzzdevise/Medical-appointment-data-set/files/9418278/noshowappointments-kagglev2-may-2016.csv)
+
 b)‘Neighborhood’ indicates the location of the hospital. 
 c)‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família. 
 d)'PatientId': The ID of each patient. 
