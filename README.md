@@ -1,5 +1,7 @@
 [Investigate a data set project A1.zip](https://github.com/Sharzzdevise/Medical-appointment-data-set/files/8952257/Investigate.a.data.set.project.A1.zip)
 # Medical-appointment-data-set
+![doctor-patient-sick-lying-bed-36039981](https://user-images.githubusercontent.com/102169299/187760900-21b28c73-6938-4dc3-be4c-9881d6b0d4b4.jpg)
+
 This project is affiliated with Udacity Data Analyst Nanodegree 
 
 In this project, I  Investigated and analyzed a Medical appointment Dataset following through the 6 data analytics process using Python, NumPy, Pandas, Matplotlib, Seaborn tools in a Jupyter notebook, after which I drew insightful and valuable conclusions from the dataset and excellently communicated project findings.
